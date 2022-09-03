@@ -1,10 +1,10 @@
 # Bomberman
 
 - This is my bomberman game written in C# using the Unity.
- I did add some 🔉sound effects. 
- All the visuals are classic bomberman style.
- The game also has local multiplayer.
- Feel free to check it out.
+- I did add some 🔉sound effects. 
+- All the visuals are classic bomberman style.
+- The game also has local multiplayer.
+- Feel free to check it out.
 
 
 - <b> Game Screenshots </b>
